@@ -4,7 +4,7 @@
 This Server keeps track of the number of submissions created. The counter will restart after each deployment.
 
 
-TECK STACK
+TECH STACK
 ===============
 Technologies include:
 - JEE 8
@@ -14,4 +14,4 @@ Technologies include:
 
 DEPLOY
 ===============
-To deploy this service, ensure that the server has Java 8 installed.
+To deploy this service, ensure that the server has Java 8 installed. Deploy jar file.
