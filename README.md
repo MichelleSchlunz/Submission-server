@@ -3,6 +3,9 @@
 
 This Server keeps track of the number of submissions created. The counter will restart after each deployment.
 
+ASSUMPTIONS
+===============
+- No authentication is required on the submission request
 
 TECH STACK
 ===============
